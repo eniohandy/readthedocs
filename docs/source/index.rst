@@ -1,20 +1,36 @@
-Vamos mudar isso aqui!
-===================================
+# Instruões Gerais
+## Table of Contents
+1. [Sobre Docker](#docker)
+2. [Sobre Ollama](#ollama)
+3. [Sobre Webui - open webui](#webui)
+4. [Contact](#contact)
+<br><br>
 
-**Lumache** se deu certo, compila automaticamente.
+<a name="docker"></a>
+## 1. Sobre Docker
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
 
-   This project is under active development.
 
-Contents
---------
 
-.. toctree::
 
-   usage
-   api
-   authors
+<a name="ollama"></a>
+## 2. Sobre Ollama
+
+``` python
+docker compose exec ollama ollama pull smollm2:135m
+```
+
+
+
+
+<a name="webui"></a>
+## 3. Sobre Webui (open-webui)
+
+
+
+
+
+<a name="contact"></a>
+## Contact
+me
