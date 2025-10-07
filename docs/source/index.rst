@@ -1,10 +1,19 @@
-# Instruões Gerais
-## Table of Contents
-1. [Sobre Docker](#docker)
-2. [Sobre Ollama](#ollama)
-3. [Sobre Webui - open webui](#webui)
-4. [Contact](#contact)
-<br><br>
+Instruões Gerais
+=================
+
+Table of Contents
+.. toctree::
+1. Sobre Docker
+2. Sobre Ollama
+3. Sobre Webui - open webui
+4. Contact
+
+.. note::
+
+   Projeto em construção.
+
+
+
 
 <a name="docker"></a>
 ## 1. Sobre Docker
