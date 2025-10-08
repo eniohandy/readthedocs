@@ -1,4 +1,9 @@
 # Instruões Gerais
+# Docker
+# Ollama
+# WebUI
+
+
 ## Table of Contents
 1. [Sobre Docker](#docker)
 2. [Sobre Ollama](#ollama)
