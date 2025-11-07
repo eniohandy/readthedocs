@@ -30,7 +30,8 @@ a porta está mostrada na coluna "PORTS"
 ou
 
 ```python
-docker port ID
+docker port ollama4
+11436/tcp -> 0.0.0.0:11436
 ```
 
 Baixar uma imagem e fazer a imagem
