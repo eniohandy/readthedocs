@@ -19,8 +19,13 @@ Acessar via localhost e porta.
 PARA SABER EM QUE PORTA ESTÁ RESPONDENDO:
 
 ```python
-docker ps - aparece na coluna port
+docker ps
+
+CONTAINER ID   IMAGE                  COMMAND                  CREATED             STATUS             PORTS                                 NAMES
+0b6dcbf7a7f2   ollama/ollama          "/bin/ollama serve"      About an hour ago   Up About an hour   11434/tcp, 0.0.0.0:11436->11436/tcp   ollama4
 ```
+a porta está mostrada na coluna "PORTS"
+
 ou
 
 ```python
