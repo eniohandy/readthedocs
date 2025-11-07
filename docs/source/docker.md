@@ -47,17 +47,23 @@ Editar o arquivo Dockerfile e incluir o que mais quiser.
 
 e.g.
 
-# usa imagem bitnami mais enxuta debian
+### Usando imagem bitnami
+usa imagem bitnami mais enxuta debian
 e instala utils que tem ping
+
 FROM  bitnami/minideb:latest
+
 RUN apt-get update && apt-get install -y iputils-ping
 
 depois, para compilar:
+```python
 $ docker build -t my_custom_image .    <= atenção ao ponto “.”; se não, não compila
-
+```
 para executar:
-$ docker run -it my_custom_image
 
+```python
+$ docker run -it my_custom_image
+```
 para mandar ao repositório e depois baixar e rodar em outro servidor:
 Este primeiro comando coloca um tag na imagem. A maioria fica com o tag “latest”
 docker tag my-image your-dockerhub-username/my-image:tag
