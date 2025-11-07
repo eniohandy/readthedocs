@@ -74,13 +74,20 @@ docker login -u your-dockerhub-username
 Se estiver usando o docker desktop, ele normalmente já está logado.
 
 para mandar ao repositório.
+```python
 docker push your-dockerhub-username/my-image:tag
+```
 
 Depois, no outro servidor, baixar:
+
+```python
 docker pull your-dockerhub-username/my-image:tag
+```
 
 e rodar:
+```python
 docker run [OPTIONS] your-dockerhub-username/my-image:tag
+```
 
 
 
