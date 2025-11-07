@@ -18,12 +18,12 @@ Acessar via localhost e porta.
 
 PARA SABER EM QUE PORTA ESTÁ RESPONDENDO:
 
-``` python
+```python
 docker ps - aparece na coluna port
 ```
 ou
 
-``` python
+```python
 docker port ID
 ```
 
