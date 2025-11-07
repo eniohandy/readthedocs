@@ -1,4 +1,7 @@
 # Instruões Gerais
+Este repositório dá instruções gerais sobre o uso do Docker, Ollama e WebUI
+
+
 # Docker
 # Ollama
 # WebUI
