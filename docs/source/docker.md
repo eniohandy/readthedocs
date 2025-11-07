@@ -26,6 +26,7 @@ CONTAINER ID   IMAGE                  COMMAND                  CREATED          
 ```
 a porta está mostrada na coluna "PORTS"
 
+
 ou
 
 ```python
