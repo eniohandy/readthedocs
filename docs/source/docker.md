@@ -89,8 +89,7 @@ e rodar:
 docker run [OPTIONS] your-dockerhub-username/my-image:tag
 ```
 
-outro
-
+*** nova linha ***
 
 # CAPÍTULO II - Gerando Containers Específicos
 
